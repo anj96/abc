@@ -3,6 +3,7 @@
     <option name="REMOVED_SDKS">
       <set>
         <option value="$USER_HOME$/anaconda2/bin/python" />
+        <option value="$USER_HOME$/anaconda2/pkgs/python-2.7.14-h1571d57_29.tar.bz2" />
         <option value="$USER_HOME$/anaconda3/bin/python" />
       </set>
     </option>
