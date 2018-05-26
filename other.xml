@@ -4,18 +4,21 @@
       <map>
         <entry key="$USER_HOME$/anaconda2/bin/python" value="true" />
         <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="/usr/bin/python2.7" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/anaconda2/bin/python" value="true" />
         <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="/usr/bin/python2.7" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/anaconda2/bin/python" value="false" />
         <entry key="$USER_HOME$/anaconda3/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
       </map>
     </option>
   </component>
